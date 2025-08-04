@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: mabhay/repo1:latest
+      - image: mabhay/repo1:2
         name: flaskdemo
         resources: {}
 status: {}
